@@ -1,0 +1,7 @@
+c:\users\zun\documents\visual studio 2017\Projects\ConsoleApp21\ConsoleApp21\bin\Debug\ConsoleApp21.exe.config
+c:\users\zun\documents\visual studio 2017\Projects\ConsoleApp21\ConsoleApp21\bin\Debug\ConsoleApp21.exe
+c:\users\zun\documents\visual studio 2017\Projects\ConsoleApp21\ConsoleApp21\bin\Debug\ConsoleApp21.pdb
+c:\users\zun\documents\visual studio 2017\Projects\ConsoleApp21\ConsoleApp21\obj\Debug\ConsoleApp21.csprojAssemblyReference.cache
+c:\users\zun\documents\visual studio 2017\Projects\ConsoleApp21\ConsoleApp21\obj\Debug\ConsoleApp21.csproj.CoreCompileInputs.cache
+c:\users\zun\documents\visual studio 2017\Projects\ConsoleApp21\ConsoleApp21\obj\Debug\ConsoleApp21.exe
+c:\users\zun\documents\visual studio 2017\Projects\ConsoleApp21\ConsoleApp21\obj\Debug\ConsoleApp21.pdb
